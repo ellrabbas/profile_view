@@ -1,7 +1,12 @@
 
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/013/643/354/small_2x/brown-hair-boy-black-eyes-wearing-glasses-yellow-skin-png.png" width="100">
+</p>
 
 <h1 align="center">Hi 👋, I'm Elmar Abbasov</h1>
-<h3 align="center">An enthusiastic frontend developer </h3>
+
+<h3 align="center">frontend developer </h3>
+
 
 
 
